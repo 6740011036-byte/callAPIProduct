@@ -23,7 +23,6 @@ const ProductPage = async () => {
                         </ProductCard>))
                 }
             </div>
-
         </>
     )
 }
