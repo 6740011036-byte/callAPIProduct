@@ -6,7 +6,6 @@ interface ProductItem {
     price: number;
     image: string
 }
-
 interface ProductProps {
     product: ProductItem
 }
